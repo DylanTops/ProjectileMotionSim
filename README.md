@@ -16,7 +16,7 @@ Follow the link above and click "Download" to access the current version of the 
 
 <p align="center">
   <a href="https://github.com/DylanTops/ProjectileMotionSim/blob/main/ProjectileSimulator-v5.jar">
-    <img src="Images/Download Jar.png" alt="Image Unavailable" width="600" height="400">
+    <img src="Images/Download Jar.png" alt="Image Unavailable" width="600" height="350">
   </a>
 </p>
 
@@ -34,6 +34,6 @@ https://youtu.be/gOyKbbnx2xk
 
 <p align="center">
   <a href="https://youtu.be/gOyKbbnx2xk">
-    <img src="Images/YouTube Screen.png" alt="Projectile Simulator" width="600" height="375">
+    <img src="Images/YouTube Screen.png" alt="Projectile Simulator" width="600" height="450">
   </a>
 </p>
