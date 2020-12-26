@@ -24,6 +24,7 @@ Follow the link above and click "Download" to access the current version of the 
 ## Code
 
 <a href="https://github.com/DylanTops/ProjectileMotionSim/blob/main/ProjectileMotionSim/src/ProjectileSimulator.java">ProjectileSimulator.java</a>
+</br>
 <a href="https://github.com/DylanTops/ProjectileMotionSim/blob/main/ProjectileMotionSim/src/Ball.java">Ball.java</a>
 
 
