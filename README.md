@@ -3,7 +3,7 @@ My Projectile Motion Simulator is a physics simulator created in Java. It uses t
 
 <p align="center">
   <a href="https://github.com/DylanTops/ProjectileMotionSim/blob/main/ProjectileSimulator-v5.jar">
-    <img src="Images/Main Screen.png" alt="Projectile Simulator" width="200" height="100">
+    <img src="Images/Main Screen.png" alt="Projectile Simulator" width="600" height="375">
   </a>
 </p>
 
