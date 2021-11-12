@@ -35,6 +35,6 @@ https://youtu.be/gOyKbbnx2xk
 
 <p align="center">
   <a href="https://youtu.be/gOyKbbnx2xk">
-    <img src="Images/YouTube Screenshot.png" alt="Projectile Simulator" width="600" height="450">
+    <img src="Images/YouTube Screenshot.png" alt="Projectile Simulator" width="600" height="420">
   </a>
 </p>
